@@ -147,3 +147,4 @@ datasets/naturescape
 datasets/urbanscape
 *.png
 /datasets/
+rl_*
